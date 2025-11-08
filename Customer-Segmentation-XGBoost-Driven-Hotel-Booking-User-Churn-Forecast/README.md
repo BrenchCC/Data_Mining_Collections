@@ -51,7 +51,7 @@ Important features: whether to visit the order filling page in 24 hours (iforder
 The values of **lasthtlordergap (time since last order)**, **ordernum_oneyear (number of user annual orders)**, and **consumption_level (user consumption level)** are chosen as R, F, and M, respectively, for clustering the user groups.
 
 ### Customer Segmentation
-![Customer Segmentation](https://github.com/peijin0405/ML-XGBoostModel-for-Deal-and-User-Churn-Forecast/assets/89746479/710992c6-67ac-4a01-aad8-c8eb5abd42b2)
+![Customer Segmentation](./XGBoost_Customer_Churn_Analysis_Charts/Customer_Segmentation.jpg)
 
 * Potential customers accounted for 12.3%, these customers are with poor RFM index scores, and are potential customers to be developed; 
 * High-Value customers accounted for 11%; 10.1% of Key-Retention customers; 7% of Key-Developing customers. These are the customers worth noticing.
